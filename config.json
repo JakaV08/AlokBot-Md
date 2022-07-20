@@ -8,7 +8,7 @@
   "pathimg": "./storage/media/anjay.png",
   "FakeNya": "Alok Ep-ep © 2022",
   "gamewaktu": 90,
-  "limitCount": 25,
+  "limitCount": 10,
   "gcount": {
 	"prem": 35,
 	"user": 15
