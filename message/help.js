@@ -297,7 +297,7 @@ exports.sewabot = (sender, prefix) => {
 ☞ *BOT NYA GRATIS*
 SYARATNYA
 FOLLOW IG OWNER!
-Https://Instagram.com/nan-sakrn
+Https://Instagram.com/nan_sakrn
 Follow dan ss/ screenshot
 Kirim ke wa.me/19793886029
 
