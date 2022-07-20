@@ -272,15 +272,15 @@ Sanksi: *PERMANENT BLOCK*
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini di jual oleh Lexxy Official Jika Minat Chat Wa.me/6283834558105
+➡️ Script ini di jual oleh Jkz Store Jika Minat Chat Wa.me/19793006026
 
 🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add group.
+➡️ Untuk sementara bot dalam status free to add group dengan syarat follow Ig owner.
 
 🗯️ Prefixnya apa ya?
 ➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
 
-🗯️ Kak, kok syaa chat owner tidak direspon?
+🗯️ Kak, kok saya chat owner tidak direspon?
 ➡️ Owner hanya merespon pertanyaan seputar bot Dan kendala eror, tidak untuk kenalan ataupun mengemis script.
 
 
@@ -294,18 +294,12 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 
 exports.sewabot = (sender, prefix) => {
    return `
-☞ *LIST HARGA SEWABOT*
- ➢ _2 Hari : Rp3.000_
- ➢ _5 Hari : Rp5.000_
- ➢ _1 Minggu : Rp7.000_
- ➢ _2 Minggu : Rp12.000_
- ➢ _1 Bulan : Rp15.000_
- ➢ _2 Bulan : Rp25.000_
- ➢ _3 Bulan : Rp45.000_
-
-_Hai Kak Mau Sewa Bot ??_
-_Untuk Fiturnya Bisa Di Cek #allmenu_
-_Jika Minat Chat Owner Ketik #owner_
+☞ *BOT NYA GRATIS*
+SYARATNYA
+FOLLOW IG OWNER!
+Https://Instagram.com/nan-sakrn
+Follow dan ss/ screenshot
+Kirim ke wa.me/19793886029
 
 *───•「 ${setting.botName} - MD 」•───*
 `
