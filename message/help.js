@@ -299,7 +299,7 @@ SYARATNYA
 FOLLOW IG OWNER!
 Https://Instagram.com/nan_sakrn
 Follow dan ss/ screenshot
-Kirim ke wa.me/19793886029
+Kirim ke wa.me/19793886026
 
 *───•「 ${setting.botName} - MD 」•───*
 `
