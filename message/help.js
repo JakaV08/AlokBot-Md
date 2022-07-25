@@ -71,7 +71,7 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 exports.menuall = (sender, prefix, pushname) => {
 	return `
 _*•──•──•──•──•──•──•──•*_
-   *AlokBot-Md*
+   *BotSattZzz*
   *BAILEYS MULTI DEVICE*
 _*•──•──•──•──•──•──•──•*_
 
@@ -286,7 +286,7 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *#menu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Neobot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan BotSattZzz di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
 Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Neobot
 😖🙏`
@@ -294,12 +294,9 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 
 exports.sewabot = (sender, prefix) => {
    return `
-☞ *BOT NYA GRATIS*
-SYARATNYA
-FOLLOW IG OWNER!
-Https://Instagram.com/nan_sakrn
-Follow dan ss/ screenshot
-Kirim ke wa.me/19793006026
+☞ *MAU SEWA?*
+Hubungi owner Saya
+Wa.me/62895622816517
 
 *───•「 ${setting.botName} - MD 」•───*
 `
@@ -308,10 +305,10 @@ Kirim ke wa.me/19793006026
 exports.donasibot = (sender, prefix) => {
    return `
   ‣ *DONASI BOT*
- ➢ DANA = 081335334848
+ ➢ DANA = 0895622816517
  ➢ OVO = -
- ➢ PULSA = 081335334848
- ➢ GOPAY = 085785694474
+ ➢ PULSA = 0895622816517
+ ➢ GOPAY = 0895622816517
  
 Hallo Kak ${ucapanWaktu}
 Beneran Mau Donasi Bot ??
